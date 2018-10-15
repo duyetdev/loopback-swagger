@@ -33,6 +33,6 @@
     "debug": "^2.2.0",
     "ejs": "^1.0.0",
     "lodash": "^3.10.1",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~3.3.5"
   }
 }
